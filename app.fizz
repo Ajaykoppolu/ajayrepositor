@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <! html>   
 <html>   
 <h  
+=======
+<!DOCTYPE html>   
+<html>   
+<head>  
+>>>>>>> 1c18ae8e04404acf3284dde82ea8476b641f6878
 <meta name="viewport" content="width=device-width, initial-scale=1">  
 <title> Login Page </title>  
 <style>   
